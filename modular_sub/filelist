@@ -1,0 +1,3 @@
+src/modular_sub.sv
+../adder_32bit/src/adder_32bit.sv
+../mux_32bit/src/mux_32bit.sv

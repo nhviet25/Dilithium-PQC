@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Sun May  7 10:07:13 2023
+[*]
+[dumpfile] "/home/hviet25/da1/bfu/wave.fst"
+[dumpfile_mtime] "Sun May  7 09:52:41 2023"
+[dumpfile_size] 23451
+[savefile] "/home/hviet25/da1/bfu/wave.gtkw"
+[timestart] 74
+[size] 1920 973
+[pos] -1 -1
+*-2.700000 83 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.top.
+[treeopen] TOP.top.dut.
+[sst_width] 297
+[signals_width] 219
+[sst_expanded] 1
+[sst_vpaned_height] 288
+@24
+TOP.top.dut.a_i[23:0]
+TOP.top.dut.w_i[23:0]
+TOP.top.dut.b_i[23:0]
+TOP.top.dut.gs_sub[23:0]
+TOP.top.dut.out_mul[23:0]
+TOP.top.dut.CT_i
+TOP.top.dut.even_o[23:0]
+TOP.top.dut.odd_o[23:0]
+[pattern_trace] 1
+[pattern_trace] 0
