@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Sat May 20 08:28:59 2023
+[*]
+[dumpfile] "/home/hviet25/da1/single_port_ROM/wave.fst"
+[dumpfile_mtime] "Sat May 20 08:28:38 2023"
+[dumpfile_size] 1708
+[savefile] "/home/hviet25/da1/single_port_ROM/wave.gtkw"
+[timestart] 0
+[size] 1920 973
+[pos] -27 -24
+*-3.600000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 297
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 288
+@22
+TOP.addr_i[7:0]
+@23
+TOP.data_o[23:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,30 +1,59 @@
 [*]
 [*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
-[*] Sun May  7 10:07:13 2023
+[*] Sun May 21 00:27:41 2023
 [*]
 [dumpfile] "/home/hviet25/da1/bfu/wave.fst"
 [dumpfile_mtime] "Sun May  7 09:52:41 2023"
 [dumpfile_size] 23451
 [savefile] "/home/hviet25/da1/bfu/wave.gtkw"
-[timestart] 74
+[timestart] 0
 [size] 1920 973
 [pos] -1 -1
-*-2.700000 83 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+*-5.100000 83 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [treeopen] TOP.
 [treeopen] TOP.top.
 [treeopen] TOP.top.dut.
 [sst_width] 297
-[signals_width] 219
+[signals_width] 184
 [sst_expanded] 1
 [sst_vpaned_height] 288
-@24
-TOP.top.dut.a_i[23:0]
-TOP.top.dut.w_i[23:0]
-TOP.top.dut.b_i[23:0]
-TOP.top.dut.gs_sub[23:0]
-TOP.top.dut.out_mul[23:0]
-TOP.top.dut.CT_i
-TOP.top.dut.even_o[23:0]
-TOP.top.dut.odd_o[23:0]
+@29
+TOP.top.clk_i
+@28
+TOP.top.CT_i
+@22
+TOP.top.a_i[23:0]
+TOP.top.b_i[23:0]
+TOP.top.w_i[23:0]
+TOP.top.even_o[23:0]
+@c00022
+TOP.top.odd_o[23:0]
+@28
+(0)TOP.top.odd_o[23:0]
+(1)TOP.top.odd_o[23:0]
+(2)TOP.top.odd_o[23:0]
+(3)TOP.top.odd_o[23:0]
+(4)TOP.top.odd_o[23:0]
+(5)TOP.top.odd_o[23:0]
+(6)TOP.top.odd_o[23:0]
+(7)TOP.top.odd_o[23:0]
+(8)TOP.top.odd_o[23:0]
+(9)TOP.top.odd_o[23:0]
+(10)TOP.top.odd_o[23:0]
+(11)TOP.top.odd_o[23:0]
+(12)TOP.top.odd_o[23:0]
+(13)TOP.top.odd_o[23:0]
+(14)TOP.top.odd_o[23:0]
+(15)TOP.top.odd_o[23:0]
+(16)TOP.top.odd_o[23:0]
+(17)TOP.top.odd_o[23:0]
+(18)TOP.top.odd_o[23:0]
+(19)TOP.top.odd_o[23:0]
+(20)TOP.top.odd_o[23:0]
+(21)TOP.top.odd_o[23:0]
+(22)TOP.top.odd_o[23:0]
+(23)TOP.top.odd_o[23:0]
+@1401200
+-group_end
 [pattern_trace] 1
 [pattern_trace] 0
